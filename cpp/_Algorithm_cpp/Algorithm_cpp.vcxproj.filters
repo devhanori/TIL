@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Beakjoon_1152_단어의개수.cpp">
+    <ClCompile Include="Beakjoon_11945_뜨거운붕어빵.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
