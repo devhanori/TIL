@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Beakjoon_11945_뜨거운붕어빵.cpp" />
+    <ClCompile Include="Baekjoon_10995_별찍기_20.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
