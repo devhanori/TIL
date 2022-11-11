@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="p180 _ 부분정렬 _ 실습문제9.cpp">
+    <ClCompile Include="LG.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
